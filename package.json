@@ -1,10 +1,10 @@
 {
-  "name": "language-ini",
+  "name": "language-ini2",
   "version": "1.16.0",
   "description": "Syntax support for ini files.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jacobbednarz/atom-language-ini"
+    "url": "https://github.com/fusion809/atom-language-ini"
   },
   "license": "MIT",
   "engines": {
@@ -12,12 +12,12 @@
   },
   "dependencies": {},
   "bugs": {
-    "url": "https://github.com/jacobbednarz/atom-language-ini/issues"
+    "url": "https://github.com/fusion809/atom-language-ini/issues"
   },
-  "homepage": "https://github.com/jacobbednarz/atom-language-ini",
+  "homepage": "https://github.com/fusion809/atom-language-ini",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jacob Bednarz <jacob.bednarz@gmail.com> (https://jacobbednarz.github.io)"
+  "author": "Brenton Horne <brentonhorne77@gmail.com> (https://fusion809.github.io),\nJacob Bednarz <jacob.bednarz@gmail.com> (https://jacobbednarz.github.io)"
 }
