@@ -1,7 +1,7 @@
 {
   "name": "language-ini2",
   "version": "1.17.1",
-  "description": "Syntax support for ini files.",
+  "description": "Syntax support for INI files, with better support for desktop configuration files than language-ini provides.",
   "repository": {
     "type": "git",
     "url": "https://github.com/fusion809/atom-language-ini"
