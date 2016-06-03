@@ -1,6 +1,6 @@
 {
   "name": "language-ini-desktop",
-  "version": "1.17.2",
+  "version": "1.18.0",
   "description": "Syntax support for desktop configuration and INI files.",
   "repository": {
     "type": "git",
