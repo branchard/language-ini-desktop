@@ -1,8 +1,8 @@
 'fileTypes': [
-  'inf',
-  'ini'
+  'desktop',
+  'directory'
 ]
-'name': 'INI'
+'name': 'Desktop'
 'patterns': [
   {
     'begin': '(^[\\s]+)?(?=#)'
@@ -29,11 +29,10 @@
     'end': '(?!\\G)'
     'patterns': [
       {
-        'begin': ';'
-        'beginCaptures':
-          '0':
+        'match': ';'
+        'Captures':
+          '1':
             'name': 'punctuation.definition.comment.ini'
-        'end': '\\n'
         'name': 'comment.line.semicolon.ini'
       }
     ]
@@ -84,4 +83,4 @@
     'name': 'string.quoted.double.ini'
   }
 ]
-'scopeName': 'source.ini'
+'scopeName': 'source.desktop'

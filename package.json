@@ -1,10 +1,10 @@
 {
-  "name": "language-ini2",
+  "name": "language-ini-desktop",
   "version": "1.17.2",
-  "description": "Syntax support for INI files, with better support for desktop configuration files than language-ini provides.",
+  "description": "Syntax support for desktop configuration and INI files.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fusion809/atom-language-ini"
+    "url": "https://github.com/fusion809/language-ini-desktop"
   },
   "license": "MIT",
   "engines": {
@@ -12,9 +12,9 @@
   },
   "dependencies": {},
   "bugs": {
-    "url": "https://github.com/fusion809/atom-language-ini/issues"
+    "url": "https://github.com/fusion809/language-ini-desktop/issues"
   },
-  "homepage": "https://github.com/fusion809/atom-language-ini",
+  "homepage": "https://github.com/fusion809/language-ini-desktop",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
