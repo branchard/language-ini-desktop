@@ -1,6 +1,7 @@
 'fileTypes': [
   'desktop',
   'directory'
+  'theme'
 ]
 'name': 'Desktop'
 'patterns': [
