@@ -1,23 +1,24 @@
 {
-  "name": "language-ini-desktop",
-  "version": "1.18.2",
-  "readme": "./README.md",
-  "description": "Syntax support for desktop configuration and INI files.",
-  "repository": {
+  "name":            "language-ini-desktop",
+  "version":         "1.18.2",
+  "readmeFilename":  "README.md",
+  "description":     "Syntax support for desktop configuration files.",
+  "license":         "MIT",
+  "licenseFilename": "LICENSE",
+  "homepage":        "https://github.com/fusion809/language-ini-desktop",
+  "author":          "Jacob Bednarz <jacob.bednarz@gmail.com> (https://jacobbednarz.github.io)",
+  "contributors":    "Brenton Horne <brentonhorne77@gmail.com> (https://fusion809.github.io)",
+  "repository":      {
     "type": "git",
     "url": "https://github.com/fusion809/language-ini-desktop"
   },
-  "license": "MIT",
-  "engines": {
-    "atom": ">0.50.0"
-  },
-  "dependencies": {},
-  "bugs": {
+  "bugs":            {
     "url": "https://github.com/fusion809/language-ini-desktop/issues"
   },
-  "homepage": "https://github.com/fusion809/language-ini-desktop",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "engines":         {
+    "atom": ">0.50.0"
   },
-  "author": "Brenton Horne <brentonhorne77@gmail.com> (https://fusion809.github.io),\nJacob Bednarz <jacob.bednarz@gmail.com> (https://jacobbednarz.github.io)"
+  "scripts":         {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
