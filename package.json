@@ -1,24 +1,24 @@
 {
-  "name":            "language-ini-desktop",
-  "version":         "1.18.2",
-  "readmeFilename":  "README.md",
-  "description":     "Syntax support for desktop configuration files.",
-  "license":         "MIT",
+  "name": "language-ini-desktop",
+  "version": "1.18.3",
+  "readmeFilename": "README.md",
+  "description": "Syntax support for desktop configuration files.",
+  "license": "MIT",
   "licenseFilename": "LICENSE",
-  "homepage":        "https://github.com/fusion809/language-ini-desktop",
-  "author":          "Jacob Bednarz <jacob.bednarz@gmail.com> (https://jacobbednarz.github.io)",
-  "contributors":    "Brenton Horne <brentonhorne77@gmail.com> (https://fusion809.github.io)",
-  "repository":      {
+  "homepage": "https://github.com/fusion809/language-ini-desktop",
+  "author": "Jacob Bednarz <jacob.bednarz@gmail.com> (https://jacobbednarz.github.io)",
+  "contributors": "Brenton Horne <brentonhorne77@gmail.com> (https://fusion809.github.io)",
+  "repository": {
     "type": "git",
     "url": "https://github.com/fusion809/language-ini-desktop"
   },
-  "bugs":            {
+  "bugs": {
     "url": "https://github.com/fusion809/language-ini-desktop/issues"
   },
-  "engines":         {
+  "engines": {
     "atom": ">0.50.0"
   },
-  "scripts":         {
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
